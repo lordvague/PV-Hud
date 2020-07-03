@@ -1,5 +1,5 @@
 # PV Hud
-
+This is a simple fix for Winpanel/HudLayout only, showing Player Avatars and Killstreak Leader and Avatar.
 
 <a>LINKS</a>
 ====
